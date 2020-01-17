@@ -15,12 +15,15 @@ npm install --save ui-kit-react-7
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'ui-kit-react-7'
+import { Foo, Bar } from 'ui-kit-react-7'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <div>
+        <Foo text='Foo Props' />
+        <Bar text='Bar Props' />
+      </div>
     )
   }
 }
