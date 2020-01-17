@@ -1,6 +1,6 @@
 # ui-kit-react-7
 
-> TODO: Component Description
+> UI Kit for React
 
 [![NPM](https://img.shields.io/npm/v/ui-kit-react-7.svg)](https://www.npmjs.com/package/ui-kit-react-7) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
