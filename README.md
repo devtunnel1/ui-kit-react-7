@@ -15,7 +15,7 @@ npm install --save ui-kit-react-7
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-modern-library-component'
+import MyComponent from 'ui-kit-react-7'
 
 class Example extends Component {
   render () {
